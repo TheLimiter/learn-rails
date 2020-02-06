@@ -1,4 +1,15 @@
 <<<<<<< HEAD
+print "menit :"
+menit = gets.to_i
+jam = menit / 60
+menit1 = menit % 60
+if menit1 < 10
+puts"#{jam}:0#{menit1}"
+else
+puts "#{jam}:#{menit1}"
+end
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -103,4 +114,8 @@ puts konversiMenit(53)
 puts konversiMenit(88)
 puts konversiMenit(120)
 >>>>>>> 440eab9aacd42b40cc6bbccb218d9f99be8fb3f8
+<<<<<<< HEAD
+>>>>>>> adfddc1e4047b029651946bbae0969c4361530d2
+=======
 >>>>>>> 8efe930be65997eec8523489a99fca152702a117
+>>>>>>> 925677ec95424d4463cca2542cb5a7ec85b863fd
