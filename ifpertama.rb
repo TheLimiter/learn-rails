@@ -31,6 +31,17 @@ angkaKedua = gets.to_i
 
 =======
 puts "PROGRAM PEMBAGIAN BILANGAN"
+<<<<<<< HEAD
+print "Masukkan a: "
+a = gets.to_f
+print "Masukkan b: "
+b = gets.to_f
+
+
+c = a / b
+
+puts "#{a} / #{b} = #{c} "
+=======
 print "masukan a: "
 a = gets.to_f
 print "masukan b: "
