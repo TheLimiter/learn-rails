@@ -1,5 +1,19 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+puts "PROGRAM PEMBAGIAN BILANGAN "
+print "masukan a:"
+ a = gets.to_f
+print "masukan b;"
+ b = gets.to_f
+ 
+ c = a/b
+   if b == 0
+       puts "tidak terdefinisi"
+   else
+       puts "#{a} / #{b} = #{c}"
+end
+=======
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -17,6 +31,8 @@ puts bandingkanangka(5,3)
 puts bandingkanangka(4,4)
 puts bandingkanangka(3,3)
 puts bandingkanangka(17,2)
+=======
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -41,7 +57,9 @@ puts "#{a} / #{b} = #{c}"
 end
 =======
 >>>>>>> 474ca7d45f37335208234573ac2fd908f13be144
+>>>>>>> b522487b0bd424cbe1f557091eafd1e9d1e54f21
 =======
+>>>>>>> 474ca7d45f37335208234573ac2fd908f13be144
 def bandingkanAngka(angka1,angka2)
 	if angka1 < angka2
 	print true
@@ -120,6 +138,12 @@ end
 >>>>>>> adfddc1e4047b029651946bbae0969c4361530d2
 =======
 >>>>>>> 8efe930be65997eec8523489a99fca152702a117
+>>>>>>> 925677ec95424d4463cca2542cb5a7ec85b863fd
+=======
+<<<<<<< HEAD
+>>>>>>> adfddc1e4047b029651946bbae0969c4361530d2
+=======
+>>>>>>> 8efe930be65997eec8523489a99fca152702a117
 <<<<<<< HEAD
 >>>>>>> 925677ec95424d4463cca2542cb5a7ec85b863fd
 =======
@@ -146,3 +170,4 @@ else
 end
 >>>>>>> 33c8e7a1c5015d6334e4d8faca4294f1f38049e2
 >>>>>>> 474ca7d45f37335208234573ac2fd908f13be144
+>>>>>>> b522487b0bd424cbe1f557091eafd1e9d1e54f21

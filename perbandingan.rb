@@ -1,4 +1,20 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+def banding(bsatu,bdua)
+        if bsatu == bdua
+             puts "-1"
+     elsif bsatu < bdua
+           puts "true"
+     else  
+           puts "false"
+     end
+end
+puts banding(5,8)
+puts banding(5,3)
+puts banding(4,4)
+puts banding(3,3)
+puts banding(17,3)
+=======
 puts "program pembagian bilangan"
 print "masukan a:"
  a = gets.to_f
@@ -12,6 +28,7 @@ end
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+>>>>>>> b522487b0bd424cbe1f557091eafd1e9d1e54f21
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -114,6 +131,12 @@ puts bandingkanAngka(17,2)
 >>>>>>> adfddc1e4047b029651946bbae0969c4361530d2
 =======
 >>>>>>> 8efe930be65997eec8523489a99fca152702a117
+>>>>>>> 925677ec95424d4463cca2542cb5a7ec85b863fd
+=======
+<<<<<<< HEAD
+>>>>>>> adfddc1e4047b029651946bbae0969c4361530d2
+=======
+>>>>>>> 8efe930be65997eec8523489a99fca152702a117
 <<<<<<< HEAD
 >>>>>>> 925677ec95424d4463cca2542cb5a7ec85b863fd
 =======
@@ -142,3 +165,4 @@ puts banding(3,3)
 puts banding(17,2)
 >>>>>>> 33c8e7a1c5015d6334e4d8faca4294f1f38049e2
 >>>>>>> 474ca7d45f37335208234573ac2fd908f13be144
+>>>>>>> b522487b0bd424cbe1f557091eafd1e9d1e54f21
