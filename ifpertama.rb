@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 puts = "PROGRAM PEMBAGIAN BILANGAN"
 
 print "Masukan a: "
@@ -18,6 +19,20 @@ puts "#{c}"
 puts "#{a} / #{b} = #{c}"
 
 end
+=======
+print "angka pertama : "
+angkaPertama = gets.to_i
+
+print "angka kedua : "
+angkaKedua = gets.to_i
+
+	if angkaPertama < angkaKedua
+		puts 'true'
+	else 
+		puts 'false'
+	
+	end
+>>>>>>> 8efe930be65997eec8523489a99fca152702a117
 
 =======
 puts "PROGRAM PEMBAGIAN BILANGAN"

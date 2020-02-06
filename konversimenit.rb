@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 print 'menit : '
 
 menit = gets.to_i
@@ -9,6 +10,17 @@ if menit1 < 10
 	puts "#{jam}:0#{menit1}"
 else
 	puts "#{jam}:#{menit1}"
+=======
+konversiMenit = gets.to_i
+	jam = konversiMenit / 60
+	menit = konversiMenit % 60
+	
+if menit < 10
+	
+	puts "#{jam} : 0 #{menit}"
+else
+	puts "#{jam} : #{menit}"
+>>>>>>> 8efe930be65997eec8523489a99fca152702a117
 end
 =======
 def konversiMenit(menit)
