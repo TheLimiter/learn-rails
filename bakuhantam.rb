@@ -1,2 +1,4 @@
+<<<<<<<<<<<<<<<<<<HEAD
 rifqi irianto
 rizky
+
