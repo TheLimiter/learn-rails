@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 puts "PROGRAM PEMBAGIAN BILANGAN "
 print "masukan a:"
  a = gets.to_f
@@ -60,6 +62,7 @@ end
 >>>>>>> b522487b0bd424cbe1f557091eafd1e9d1e54f21
 =======
 >>>>>>> 474ca7d45f37335208234573ac2fd908f13be144
+>>>>>>> d5ac46f93059c082d93196a49a26b048203dfa96
 def bandingkanAngka(angka1,angka2)
 	if angka1 < angka2
 	print true
@@ -150,8 +153,11 @@ end
 =======
 =======
 >>>>>>> 8efe930be65997eec8523489a99fca152702a117
+<<<<<<< HEAD
+=======
 >>>>>>> 474ca7d45f37335208234573ac2fd908f13be144
 >>>>>>> 0349a472d724202dc24487c217d31b182eaa9caf
+>>>>>>> d5ac46f93059c082d93196a49a26b048203dfa96
 =======
 puts "PROGRAM PEMBAGIAN BILANGAN"
 
@@ -169,5 +175,8 @@ else
  puts "#{a} / #{b} = #{c}"
 end
 >>>>>>> 33c8e7a1c5015d6334e4d8faca4294f1f38049e2
+<<<<<<< HEAD
+=======
 >>>>>>> 474ca7d45f37335208234573ac2fd908f13be144
 >>>>>>> b522487b0bd424cbe1f557091eafd1e9d1e54f21
+>>>>>>> d5ac46f93059c082d93196a49a26b048203dfa96

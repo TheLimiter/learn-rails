@@ -1,11 +1,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 =======
 >>>>>>> d5ac46f93059c082d93196a49a26b048203dfa96
 D
 >>>>>>> b522487b0bd424cbe1f557091eafd1e9d1e54f21
+=======
+>>>>>>> 69e6db9462369a6e8bf8562ae79fbacb090e5ee5
 akbarfdlh
 =======
 sechan 
@@ -28,13 +31,12 @@ dandung
 akbarfdlh
 =======
 
-
-<<<<<<< HEAD
 rifqi irianto
 mukhlis rifai
 =======
 
 ofiiiiiiiiiii
+<<<<<<< HEAD
 
 =======
 
@@ -43,9 +45,10 @@ Rafi Aprilian
 wowkowkwoKWOKWOWKOWKWOWOK
 --faiz :v
 =======
+>>>>>>> 69e6db9462369a6e8bf8562ae79fbacb090e5ee5
+=======
 
 sechan sehan
->>>>>>> b522487b0bd424cbe1f557091eafd1e9d1e54f21
 rifqi irianto
 rizky
 <<<<<<< HEAD
@@ -61,19 +64,32 @@ rifqi irianto
 rifqisr
 dandung
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+shofira k
+=======
+
+=======
+>>>>>>> 69e6db9462369a6e8bf8562ae79fbacb090e5ee5
 sechan
 daris
 =======
 
+<<<<<<< HEAD
 
 >>>>>>> b522487b0bd424cbe1f557091eafd1e9d1e54f21
 
 =======
-arjuna efenus
->>>>>>> 925677ec95424d4463cca2542cb5a7ec85b863fd
 ofiiiiiiiiiii
+daris
+=======
+>>>>>>> 69e6db9462369a6e8bf8562ae79fbacb090e5ee5
+=======
+arjuna efenus
+ofiiiiiiiiiii
+<<<<<<< HEAD
 
 =======
 
@@ -81,14 +97,19 @@ ofiiiiiiiiiii
 
 daris
 <<<<<<< HEAD
+=======
+=======
+daris
+=======
+=======
+>>>>>>> 69e6db9462369a6e8bf8562ae79fbacb090e5ee5
 daris
    mukhlis
 
 
-
-
 muklissss
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 
@@ -124,3 +145,13 @@ dafa
 Aldel
 >>>>>>> c1518a64e346bdd85ef11c9763d2e47cca52b505
 >>>>>>> d5ac46f93059c082d93196a49a26b048203dfa96
+=======
+=======
+daris
+sechan
+
+=======
+Aldel
+
+shofira
+>>>>>>> 69e6db9462369a6e8bf8562ae79fbacb090e5ee5
