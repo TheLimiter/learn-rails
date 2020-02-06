@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D
 akbarfdlh
 =======
@@ -68,3 +69,6 @@ sechan
 >>>>>>> 925677ec95424d4463cca2542cb5a7ec85b863fd
 >>>>>>> b522487b0bd424cbe1f557091eafd1e9d1e54f21
 
+=======
+Aldel
+>>>>>>> c1518a64e346bdd85ef11c9763d2e47cca52b505

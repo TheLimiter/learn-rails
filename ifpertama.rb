@@ -33,6 +33,8 @@ puts bandingkanangka(3,3)
 puts bandingkanangka(17,2)
 =======
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 puts = "PROGRAM PEMBAGIAN BILANGAN"
 
@@ -57,6 +59,7 @@ end
 >>>>>>> 474ca7d45f37335208234573ac2fd908f13be144
 >>>>>>> b522487b0bd424cbe1f557091eafd1e9d1e54f21
 =======
+>>>>>>> 474ca7d45f37335208234573ac2fd908f13be144
 def bandingkanAngka(angka1,angka2)
 	if angka1 < angka2
 	print true
