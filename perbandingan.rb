@@ -12,6 +12,7 @@ end
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 uts = "PROGRAM PEMBAGIAN BILANGAN"
 
 print "Masukan a: "
@@ -92,4 +93,26 @@ puts bandingkanAngka(17,2)
 >>>>>>> adfddc1e4047b029651946bbae0969c4361530d2
 =======
 >>>>>>> 8efe930be65997eec8523489a99fca152702a117
+<<<<<<< HEAD
 >>>>>>> 925677ec95424d4463cca2542cb5a7ec85b863fd
+=======
+=======
+def banding(bilSatu,bilDua)
+ if bilSatu == bilDua
+	puts "-1"
+ elsif bilSatu < bilDua
+	puts "true"
+ else
+	puts "false"
+ end
+end
+
+#=======================
+
+puts banding(5,8)
+puts banding(5,3)
+puts banding(4,4)
+puts banding(3,3)
+puts banding(17,2)
+>>>>>>> 33c8e7a1c5015d6334e4d8faca4294f1f38049e2
+>>>>>>> 474ca7d45f37335208234573ac2fd908f13be144

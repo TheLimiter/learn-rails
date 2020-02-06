@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 def bandingkanangka(number1,number2)
 	if number1 < number2
 	print true
@@ -14,6 +15,30 @@ puts bandingkanangka(5,3)
 puts bandingkanangka(4,4)
 puts bandingkanangka(3,3)
 puts bandingkanangka(17,2)
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+puts = "PROGRAM PEMBAGIAN BILANGAN"
+
+print "Masukan a: "
+
+a = gets.to_f
+
+print "Masukan b: "
+
+b = gets.to_f
+
+c = a/b
+
+if a/b
+
+puts "#{c}"
+
+puts "#{a} / #{b} = #{c}"
+
+end
+=======
+>>>>>>> 474ca7d45f37335208234573ac2fd908f13be144
 =======
 def bandingkanAngka(angka1,angka2)
 	if angka1 < angka2
@@ -33,6 +58,7 @@ puts bandingkanAngka(17,2)
 >>>>>>> 925677ec95424d4463cca2542cb5a7ec85b863fd
 =======
 <<<<<<< HEAD
+>>>>>>> 925677ec95424d4463cca2542cb5a7ec85b863fd
 print "angka pertama : "
 angkaPertama = gets.to_i
 
@@ -45,6 +71,7 @@ angkaKedua = gets.to_i
 		puts 'false'
 	
 	end
+>>>>>>> 8efe930be65997eec8523489a99fca152702a117
 
 =======
 puts "PROGRAM PEMBAGIAN BILANGAN"
@@ -74,4 +101,24 @@ end
 >>>>>>> adfddc1e4047b029651946bbae0969c4361530d2
 =======
 >>>>>>> 8efe930be65997eec8523489a99fca152702a117
+<<<<<<< HEAD
 >>>>>>> 925677ec95424d4463cca2542cb5a7ec85b863fd
+=======
+=======
+puts "PROGRAM PEMBAGIAN BILANGAN"
+
+print "Masukkan angka /tama: "
+a = gets.to_f
+
+print "Masukkan Angka Dua: "
+b = gets.to_f
+
+c = a / b
+
+if b == 0
+	puts "Tidak Terdefinisi"
+else
+ puts "#{a} / #{b} = #{c}"
+end
+>>>>>>> 33c8e7a1c5015d6334e4d8faca4294f1f38049e2
+>>>>>>> 474ca7d45f37335208234573ac2fd908f13be144
