@@ -1,2 +1,1 @@
-wowkowkwoKWOKWOWKOWKWOWOK
---faiz :v
+akbarfdlh
