@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 puts = "PROGRAM PEMBAGIAN BILANGAN"
 
 print "Masukan a: "
@@ -20,6 +21,25 @@ puts "#{a} / #{b} = #{c}"
 
 end
 =======
+=======
+def bandingkanAngka(angka1,angka2)
+	if angka1 < angka2
+	print true
+	elsif angka1 == angka2
+	print "-1"
+	else
+print false
+end
+end
+puts bandingkanAngka(5,8)
+puts bandingkanAngka(5,3)
+puts bandingkanAngka(4,4)
+puts bandingkanAngka(3,3)
+puts bandingkanAngka(17,2)
+
+=======
+<<<<<<< HEAD
+>>>>>>> 925677ec95424d4463cca2542cb5a7ec85b863fd
 print "angka pertama : "
 angkaPertama = gets.to_i
 
@@ -58,3 +78,4 @@ else
 puts "#{a} / #{b} = #{c}"
 end
 >>>>>>> 440eab9aacd42b40cc6bbccb218d9f99be8fb3f8
+>>>>>>> 8efe930be65997eec8523489a99fca152702a117
