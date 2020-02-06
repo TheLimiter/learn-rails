@@ -1,3 +1,1 @@
-faiz
 rifqi irianto
-dandung
