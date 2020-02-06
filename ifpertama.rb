@@ -1,4 +1,20 @@
+<<<<<<< HEAD
+print "angka pertama : "
+angkaPertama = gets.to_i
+
+print "angka kedua : "
+angkaKedua = gets.to_i
+
+	if angkaPertama < angkaKedua
+		puts 'true'
+	else 
+		puts 'false'
+	
+	end
+
+=======
 puts "PROGRAM PEMBAGIAN BILANGAN"
+<<<<<<< HEAD
 <<<<<<< HEAD
 print "masukan a:"
 a = gets.to_f
@@ -12,6 +28,17 @@ if a == 0
 else 
 puts "#{a}/#{b} = #{c}" 
 end
+=======
+print "Masukkan a: "
+a = gets.to_f
+print "Masukkan b: "
+b = gets.to_f
+
+
+c = a / b
+
+puts "#{a} / #{b} = #{c} "
+>>>>>>> 1fd9d76a8b06bb2ec0284b2725fb4560f58f7b06
 =======
 print "masukan a: "
 a = gets.to_f
