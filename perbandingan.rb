@@ -12,6 +12,8 @@ end
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 uts = "PROGRAM PEMBAGIAN BILANGAN"
 
@@ -33,6 +35,7 @@ puts "#{a} / #{b} = #{c}"
 
 end
 =======
+>>>>>>> 474ca7d45f37335208234573ac2fd908f13be144
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -90,12 +93,18 @@ puts bandingkanAngka(3,3)
 puts bandingkanAngka(17,2)
 >>>>>>> 440eab9aacd42b40cc6bbccb218d9f99be8fb3f8
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> adfddc1e4047b029651946bbae0969c4361530d2
 =======
 >>>>>>> 8efe930be65997eec8523489a99fca152702a117
 <<<<<<< HEAD
 >>>>>>> 925677ec95424d4463cca2542cb5a7ec85b863fd
 =======
+=======
+=======
+>>>>>>> 8efe930be65997eec8523489a99fca152702a117
+>>>>>>> 474ca7d45f37335208234573ac2fd908f13be144
+>>>>>>> 0349a472d724202dc24487c217d31b182eaa9caf
 =======
 def banding(bilSatu,bilDua)
  if bilSatu == bilDua

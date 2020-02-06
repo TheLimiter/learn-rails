@@ -1,22 +1,15 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+D
 akbarfdlh
 =======
 sechan 
 rifqi irianto
-akbarfdlh
-
-wowkowkwoKWOKWOWKOWKWOWOK
+akbarfdlhK
 --faiz :v
 ofiiiiii
-
->>>>>>> 8efe930be65997eec8523489a99fca152702a117
 =======
 faiz
 rifqi irianto
 dandung
-<<<<<<< HEAD
 akbarfdlh
 =======
 
@@ -36,6 +29,7 @@ rizky
 
 faiz
 rifqi irianto
+rifqisr
 dandung
 <<<<<<< HEAD
 sechan
