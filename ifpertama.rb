@@ -1,5 +1,31 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+puts = "PROGRAM PEMBAGIAN BILANGAN"
+
+print "Masukan a: "
+
+a = gets.to_f
+
+print "Masukan b: "
+
+b = gets.to_f
+
+c = a/b
+
+if a/b
+
+puts "#{c}"
+
+puts "#{a} / #{b} = #{c}"
+
+end
+=======
+=======
+>>>>>>> 474ca7d45f37335208234573ac2fd908f13be144
 def bandingkanAngka(angka1,angka2)
 	if angka1 < angka2
 	print true
@@ -17,6 +43,7 @@ puts bandingkanAngka(17,2)
 
 =======
 <<<<<<< HEAD
+>>>>>>> 925677ec95424d4463cca2542cb5a7ec85b863fd
 print "angka pertama : "
 angkaPertama = gets.to_i
 
@@ -29,6 +56,7 @@ angkaKedua = gets.to_i
 		puts 'false'
 	
 	end
+>>>>>>> 8efe930be65997eec8523489a99fca152702a117
 
 =======
 puts "PROGRAM PEMBAGIAN BILANGAN"
